@@ -12,12 +12,12 @@ Here, we are analyzing different aspects of Diabetes in the Pima tribe by doing 
 **Data Dictionary**
 The dataset has the following information:
 
-Pregnancies: Number of times pregnant
-Glucose: Plasma glucose concentration over 2 hours in an oral glucose tolerance test
-BloodPressure: Diastolic blood pressure (mm Hg)
-SkinThickness: Triceps skin fold thickness (mm)
-Insulin: 2-Hour serum insulin (mu U/ml)
-BMI: Body mass index (weight in kg/(height in m)^2)
-DiabetesPedigreeFunction: A function which scores likelihood of diabetes based on family history.
-Age: Age in years
-Outcome : Class variable (0: person is not diabetic or 1: person is diabetic)
+- Pregnancies: Number of times pregnant <>
+- Glucose: Plasma glucose concentration over 2 hours in an oral glucose tolerance test
+- BloodPressure: Diastolic blood pressure (mm Hg)
+- SkinThickness: Triceps skin fold thickness (mm)
+- Insulin: 2-Hour serum insulin (mu U/ml)
+- BMI: Body mass index (weight in kg/(height in m)^2)
+- DiabetesPedigreeFunction: A function which scores likelihood of diabetes based on family history.
+- Age: Age in years
+- Outcome : Class variable (0: person is not diabetic or 1: person is diabetic)
